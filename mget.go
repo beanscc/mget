@@ -1,7 +1,7 @@
 package main
 
 import (
-	"mget/cmd"
+	"github.com/beanscc/mget/cmd"
 )
 
 func main() {

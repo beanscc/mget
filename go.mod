@@ -1,4 +1,4 @@
-module mget
+module github.com/beanscc/mget
 
 go 1.13
 
